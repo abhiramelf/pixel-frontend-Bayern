@@ -14280,7 +14280,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var signallingServerAddress = "ws://sps-biome-1662428721.ap-south-1.elb.amazonaws.com/qd-v3ltjga8tk/ws";
+var signallingServerAddress = "ws://sps-biome-1662428721.ap-south-1.elb.amazonaws.com/qd-npq7hv9mm3/ws";
 if (signallingServerAddress == '') {
     // define our signallingServerProtocol to be used based on whether
     // or not we're accessing our frontend via a tls
